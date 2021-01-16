@@ -2,8 +2,8 @@
 
 Bradfield take-home exercises.
 
-'range_count_binary.py' contains the binary search algorithm from the "Range Count" portion of the exam
-'range_count_linear.py' contains the linear search algorithm from the "Range Count" portion of the exam
+'range_count_binary.py' contains the binary search algorithm for the "Range Count" portion of the exam
+'range_count_linear.py' contains the linear search algorithm for the "Range Count" portion of the exam
 
 Both files when run in the terminal will print the value of total number of occurences 'x'.
 When you run the file it will also print how long the algorithm took to run.
