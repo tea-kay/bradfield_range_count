@@ -35,10 +35,12 @@ Open 'range_count_binary.py' in an editor of your choice
 
 Go to line 54 to:
 
-# Driver code
+Driver code
 
 arr = [1, 1, 2, 4, 5, 5, 5, 5, 7, 7, 9, 9, 9, 10, 10, 11, 11]
+
 n = len(arr)
+
 x = 11
 
 Change the x value here for the number you want to count occurences of and add the newly generated arrary to arr.
