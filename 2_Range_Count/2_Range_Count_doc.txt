@@ -1,0 +1,27 @@
+iii. 
+
+When comparing the benchmarks of the 2 search algorithms when using an arrays with values up to 100 values the linear search was more performant.
+
+Ex. Output of both algorithms using a 100 value arrays
+
+Timothys-MacBook-Pro:2_Range_Count tk$ python range_count_binary.py
+16
+binary search takes 0.000044
+Timothys-MacBook-Pro:2_Range_Count tk$ python range_count_linear.py 
+16
+linear search takes 0.000036
+
+As you can see from the output above the linear search took less time.
+
+As the array got larger and I started testing it with arrays with more than 1000 values the binary search started to get exponentially faster.
+
+Ex. Output of both algorithms using a 1000 value arrays.
+
+Timothys-MacBook-Pro:2_Range_Count tk$ python range_count_linear.py 
+101
+linear search takes 0.000083
+Timothys-MacBook-Pro:2_Range_Count tk$ python range_count_binary.py
+101
+binary search takes 0.000039
+
+

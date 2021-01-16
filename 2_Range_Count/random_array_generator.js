@@ -7,7 +7,9 @@ function randomNumber(arrayLength) {
         arr.push(num);
 
     }
-    console.log(arr);
+    console.dir(arr.sort(function(a, b) {
+        return a - b}), {'maxArrayLength': null});
 }
 
-randomNumber(40);
+randomNumber(1000);
+
