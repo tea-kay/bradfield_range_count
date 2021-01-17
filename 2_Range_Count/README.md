@@ -2,6 +2,13 @@
 
 Bradfield take-home exercises.
 
+2_Range_Count folder includes:
+
+- 2_Range_Count_doc.txt
+- random_array_generator.js
+- range_count_binary.py
+- range_count_linear.py
+
 'range_count_binary.py' contains the binary search algorithm for the "Range Count" portion of the exam
 'range_count_linear.py' contains the linear search algorithm for the "Range Count" portion of the exam
 
